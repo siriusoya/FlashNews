@@ -1,0 +1,42 @@
+[
+    {
+      "username": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "password",
+      "role": "Admin",
+      "phoneNumber": "6658372523",
+      "address": "216 Kings Way"
+    },
+    {
+        "username": "staff1",
+        "email": "staff1@gmail.com",
+        "password": "password",
+        "role": "Staff",
+        "phoneNumber": "3788209077",
+        "address": "8 Ludington Plaza"
+    },
+    {
+      "username": "clane2",
+      "email": "rprobart0@miibeian.gov.cn",
+      "password": "5d3pNS",
+      "role": "Admin",
+      "phoneNumber": "5377985608",
+      "address": "04263 Dakota Street"
+    },
+    {
+        "username": "hvalasek3",
+        "email": "fhadden1@dedecms.com",
+        "password": "WTLLBQ",
+        "role": "Staff",
+        "phoneNumber": "9165763490",
+        "address": "0 Dwight Point"
+    },
+    {
+        "username": "tluck4",
+        "email": "bclousley2@tinypic.com",
+        "password": "nWQLDLLpnymt",
+        "role": "Admin",
+        "phoneNumber": "6808447880",
+        "address": "61 Hazelcrest Terrace"
+    }
+  ]

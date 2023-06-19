@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Famous Actor Caught in Hilarious Prank on Movie Set",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imgUrl": "1994-11-06T00:00:00.000Z",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+        "title": "Pop Star's Surprise Album Release Shakes Up the Music Industry",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 2,
+        "categoryId": 1
+    },
+    {
+        "title": "Controversial New Legislation Sparks Nationwide Protests",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 3,
+        "categoryId": 2
+    },
+    {
+        "title": "Political Scandal Unearthed: High-ranking Official Accused of Corruption",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 4,
+        "categoryId": 2
+    },
+    {
+        "title": "Breakthrough Study Reveals Promising Treatment for Alzheimer's",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 5,
+        "categoryId": 3
+    },
+    {
+        "title": "Fitness Trend Takes the World by Storm: The Rise of Virtual Workouts",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 5,
+        "categoryId": 3
+    },
+    {
+        "title": "Cryptocurrency Market Hits All-Time High, Experts Weigh In",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 4,
+        "categoryId": 4
+    },
+    {
+        "title": "Global Trade War Escalates: Tariff Dispute Sparks Economic Uncertainty",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 3,
+        "categoryId": 4
+    },
+    {
+        "title": "Underdog Team Shocks the World, Wins Championship Against All Odds",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 2,
+        "categoryId": 5
+    },
+    {
+        "title": "World Record Shattered in Jaw-Dropping Olympic Performance",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 1,
+        "categoryId": 5
+    },
+    {
+        "title": "Revolutionary Teaching Methodology Revolutionizes Classroom Learning",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 2,
+        "categoryId": 6
+    },
+    {
+        "title": "University Admissions Scandal Exposed: Elite Institutions Under Scrutiny",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "imgUrl": "1994-11-06T00:00:00.000Z",
+        "authorId": 3,
+        "categoryId": 6
+    }
+]
